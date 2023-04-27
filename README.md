@@ -1,1 +1,1 @@
-# ScrutinizingWhatsapp
+# Scrutinizing Whatsapp
